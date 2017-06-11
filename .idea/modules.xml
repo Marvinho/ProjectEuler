@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Project Euler 1 Multiples of 3 and 5/Multiples of 3 and 5.iml" filepath="$PROJECT_DIR$/Project Euler 1 Multiples of 3 and 5/Multiples of 3 and 5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project Euler 2 Even Fibonacci numbers/Project Euler 2 Even Fibonacci numbers.iml" filepath="$PROJECT_DIR$/Project Euler 2 Even Fibonacci numbers/Project Euler 2 Even Fibonacci numbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjectEuler.iml" filepath="$PROJECT_DIR$/ProjectEuler.iml" />
     </modules>
   </component>
